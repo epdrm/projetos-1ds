@@ -2,7 +2,7 @@
 // que deve retornar a string "Olá Mundo"
 
 function olaMundo() {
-  // aluno deve completar
+  return "Olá Mundo"
 }
 
 module.exports = olaMundo
